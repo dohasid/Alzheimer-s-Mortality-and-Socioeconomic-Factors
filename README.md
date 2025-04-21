@@ -3,6 +3,10 @@
 ## Project Overview
 This project explores how **education**, **income**, and **mental health (depression)** relate to **Alzheimer’s mortality rates** across U.S. states. Using public datasets from the CDC, U.S. Census, and FRED, I conducted statistical analysis and visualized trends to uncover social patterns in Alzheimer’s outcomes.
 
+## Files
+alz_project.Rmd – Full analysis code and insights
+`info 478`.pdf – Rendered output for easy viewing
+
 ## Research Questions
 - Do higher levels of education correlate with lower Alzheimer’s mortality?
 - Is there a relationship between income and Alzheimer’s mortality rates?
