@@ -5,7 +5,7 @@ This project explores how **education**, **income**, and **mental health (depres
 
 ## Files
 alz_project.Rmd – Full analysis code and insights
-`info 478`.pdf – Rendered output for easy viewing
+Alzheimer's Mortality and Socioeconimic Factors.pdf – Rendered output for easy viewing
 
 ## Research Questions
 - Do higher levels of education correlate with lower Alzheimer’s mortality?
