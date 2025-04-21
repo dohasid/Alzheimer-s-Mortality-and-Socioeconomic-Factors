@@ -5,6 +5,7 @@ This project explores how **education**, **income**, and **mental health (depres
 
 ## Files
 alz_project.Rmd – Full analysis code and insights
+
 Alzheimer's Mortality and Socioeconimic Factors.pdf – Rendered output for easy viewing
 
 ## Research Questions
