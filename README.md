@@ -49,7 +49,7 @@ This project explores how **education**, **income**, and **mental health (depres
 2. **Increase Federal Funding for Alzheimer’s Research**  
    Address disparities in healthcare access and understand socioeconomic risk factors more deeply
 
-## 📷 Visual Highlights
+## Visuals
 - `education_vs_mortality.png`: Scatterplot with regression line
 - `income_boxplot.png`: Distribution of mortality by income quartile
 - `depression_vs_mortality.png`: Alzheimer’s rate vs depression rate
